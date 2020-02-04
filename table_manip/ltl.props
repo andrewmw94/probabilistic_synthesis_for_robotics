@@ -1,0 +1,1 @@
+Pmax =? [(F "goal1") | (F "goal2") | (F "goal3") | (F "goal4") | (F "goal5") | (F "goal6")];
